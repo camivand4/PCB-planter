@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1634 779" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.652233,0,0,0.719902,-182.057,-28.0979)">
+        <rect x="282.323" y="781.97" width="646.931" height="336.027" style="fill:rgb(235,235,235);stroke:black;stroke-width:6.07px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-331.975,-256.511)">
+        <text x="376.661px" y="928.44px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Charging cable</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-280.239,-1751.85)">
+        <rect x="282.323" y="1753.94" width="421.95" height="245.771" style="fill:rgb(235,235,235);stroke:black;stroke-width:4.17px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-327.955,-1419.63)">
+        <text x="372.642px" y="1557.53px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">Pump</text>
+    </g>
+    <g transform="matrix(1,0,0,2.20292,-714.876,-2911.01)">
+        <rect x="1749.41" y="1322.38" width="596.935" height="308.583" style="fill:rgb(235,235,235);stroke:black;stroke-width:2.44px;"/>
+    </g>
+    <g transform="matrix(0.459099,0,0,0.278168,265.642,-215.992)">
+        <rect x="1807.7" y="1015.61" width="128.633" height="212.3" style="fill:rgb(101,184,100);stroke:black;stroke-width:21.95px;"/>
+    </g>
+    <g transform="matrix(0.459099,0,0,0.278168,265.642,-156.937)">
+        <rect x="1807.7" y="1015.61" width="128.633" height="212.3" style="fill:rgb(101,184,100);stroke:black;stroke-width:21.95px;"/>
+    </g>
+    <g transform="matrix(0.459099,0,0,0.278168,265.642,-97.882)">
+        <rect x="1807.7" y="1015.61" width="128.633" height="212.3" style="fill:rgb(101,184,100);stroke:black;stroke-width:21.95px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-816.028,-905.402)">
+        <text x="2048.88px" y="1071.14px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">PCB</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-280.239,-294.186)">
+        <path d="M704.272,419.155L1058.27,419.155" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    </g>
+    <g transform="matrix(2.74378,0,0,1,-2125.63,-294.186)">
+        <path d="M929.254,949.984L1058.27,949.984" style="fill:none;stroke:black;stroke-width:4.04px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-280.239,-294.186)">
+        <path d="M1058.27,419.155L1405.32,449.288" style="fill:none;stroke:rgb(255,22,0);stroke-width:8.33px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-280.239,-294.186)">
+        <path d="M1058.27,949.984L1405.32,508.343" style="fill:none;stroke:rgb(255,22,0);stroke-width:8.33px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-280.239,-294.186)">
+        <path d="M1058.27,419.155L1058.27,949.984" style="fill:none;stroke:black;stroke-width:8.33px;"/>
+    </g>
+</svg>
